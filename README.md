@@ -4,7 +4,7 @@
 
     - Makena Odongo
     - Paul Otuoro
-    - Viola Kimetei
+    - Viola Kimitei
     - Charles Owiti
 
 ## Introduction
